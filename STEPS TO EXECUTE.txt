@@ -1,0 +1,10 @@
+# Activate your virtual environment
+python -m venv whisper_env
+whisper_env\Scripts\activate
+
+# Install required packages
+pip install torch torchvision torchaudio
+pip install openai-whisper
+pip install librosa soundfile numpy
+
+python whisper_test.py
