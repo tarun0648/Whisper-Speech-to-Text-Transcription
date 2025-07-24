@@ -4,6 +4,9 @@ This project uses OpenAI's Whisper model for speech-to-text transcription.
 
 ---
 
+![PHOTO-2025-07-24-18-07-50](https://github.com/user-attachments/assets/e0336b36-b931-4f03-b7c7-f816a68be09a)
+
+
 ## Prerequisites
 
 ### Python Version  
